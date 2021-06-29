@@ -1,0 +1,17 @@
+/* body {
+  min-height: 3200px;
+} */
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #87add1;
+}
+
+#project {
+  background-color: #87add1;
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 14px;
+  }
+}
